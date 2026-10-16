@@ -9,5 +9,5 @@ Kann Audits Internship Program graduate — audited multiple protocols under tig
 | Project Name | Type | Firm/Self | Contest Report / Notes |
 | --- | --- | --- | --- |
 | **2026** | | | |
-| 2026/06 **Fluton** | Confidential Lending Adapter using Zama's fhEVM encryption | [Kann Audits](https://x.com/KannAudits) (Internship) | [Report](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Fluton-security-review-2026-08-20.pdf) |
-| 2026/04 **HyperLend** | Leveraged Looping Vault (Aave-fork) on HyperEVM | [Kann Audits](https://x.com/KannAudits) (Internship) | [Report](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/HyperLend-security-review-2026-05-26.pdf) |
+| 2026/06 **Fluton** | FHE privacy protocol: confidential ERC-20s, Zama/CoFHE cross-chain bridges, Diamond-based Aave V3 adapter | [Kann Audits](https://x.com/KannAudits) (Internship) | [Report](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Fluton-security-review-2026-08-20.pdf) |
+| 2026/04 **HyperLend** | Leverage looping strategies (flashloan + swap adapters) on HyperLend, an Aave V3 fork on HyperEVM | [Kann Audits](https://x.com/KannAudits) (Internship) | [Report](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/HyperLend-security-review-2026-05-26.pdf) |
